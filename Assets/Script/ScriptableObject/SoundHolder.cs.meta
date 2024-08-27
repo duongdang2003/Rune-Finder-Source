@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 84b58e84089757c4ab953475a7ed62fb
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - bonk: {instanceID: 0}
+  - foundARune: {fileID: 8300000, guid: ff306a605637f4846921726ba85ca90a, type: 3}
+  - windSound: {fileID: 8300000, guid: b8063d6008cf0904b8370c8ba57e4a95, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

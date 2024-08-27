@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 84b58e84089757c4ab953475a7ed62fb, type: 3}
+  m_Name: Sound Holder
+  m_EditorClassIdentifier: 
+  bonk: {fileID: 8300000, guid: 459d4572e351c5244983b6cb2940acaf, type: 3}
+  foundARune: {fileID: 8300000, guid: ff306a605637f4846921726ba85ca90a, type: 3}
+  windSound: {fileID: 8300000, guid: b8063d6008cf0904b8370c8ba57e4a95, type: 3}
+  dashSound: {fileID: 8300000, guid: a44db6474e1cc2e4db8ef2ddf8d93ac4, type: 3}
